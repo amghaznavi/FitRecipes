@@ -1,1 +1,2 @@
-# FitRecipes
+# FitRecipes, a recipes app SwiftUI.
+Current project ... 
